@@ -4,7 +4,7 @@ A comprehensive benchmark suite for thyroid ultrasound image analysis using larg
 
 ## 🔄 Updates
 - **2026-07-14**: Code released.
-- **2026-07-03**: Model weights released at [https://modelscope.cn/models/AsunaTan/ThyrMind-9B](https://huggingface.co/chaoyinshe/ThyMind-9B)
+- **2026-07-03**: Model weights released at [https://huggingface.co/chaoyinshe/ThyMind-9B](https://huggingface.co/chaoyinshe/ThyMind-9B)
 ## Table of Contents
 
 - [Installation](#installation)
